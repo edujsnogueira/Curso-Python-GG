@@ -1,5 +1,7 @@
-# deixando tudo pronto
-# apresentar na tela a mensagem 'Olá, Mundo!'
+# Exercício 001:
+
+# Deixando tudo pronto.
+# Apresentar na tela a mensagem 'Olá, Mundo!'
 
 # print('Olá, Mundo!')
 
