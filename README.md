@@ -11,7 +11,7 @@ Curso de Python [Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_
 
 Curso de Python [Exercícios](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-).
 
-Dica 1: Os cursos foram criados há bastante tempo (2017 e 2018), então fiquem de olho nos comentários que o pessoal sempre participa dando dicas de novas funcionalidades.
+Dica 1: Os cursos foram criados há bastante tempo (2017 e 2018), então fiquem de olho nos comentários postados no Youtube. O pessoal sempre participa dando dicas de novas funcionalidades.
 
 Dica 2: Curso de [Git e GitHub](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA).
 
