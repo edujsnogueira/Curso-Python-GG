@@ -1,5 +1,7 @@
 # Aula 006:
 
+# Tipos primitivos:
+
 # Existem 4 tipos primitivos básicos no Python:
 # int = números inteiros;
 # float = números reais;

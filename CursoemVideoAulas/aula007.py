@@ -2,6 +2,7 @@
 
 # Operadores aritméticos:
 
+# os operadores básicos são:
 # + adição
 # - subtração
 # * multiplicação
@@ -10,6 +11,7 @@
 # // divisão inteira
 # % resto da divisão inteira
 
+# exemplos de aplicação:
 # 5 + 2 == 7
 # 5 - 2 == 3
 # 5 * 2 == 10
@@ -18,7 +20,7 @@
 # 5 // 2 == 2 (parte inteira da divisão)
 # 5 % 2 == 1 (resto da divisão)
 
-# Ordem de precedência
+# Ordem de precedência dos operadores:
 
 # primeiro lugar: () (parênteses)
 
