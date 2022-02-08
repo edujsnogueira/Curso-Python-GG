@@ -1,5 +1,9 @@
 # Aula 007:
 
+'''Nessa aula, vamos aprender quais são os operadores aritméticos do Python e também sua ordem de precedência
+dentro de expressões matemáticas. Veja como funcionam os operadores de adição, subtração, multiplicação, divisão,
+exponenciação e quociente na linguagem Python.'''
+
 # Operadores aritméticos:
 
 # os operadores básicos são:
@@ -84,3 +88,5 @@ print(f'A divisão de {n1} por {n2} é {d:.3f}')
 
 print(f'A soma é {s} \n A subtração é {sub} \n A multiplicação é {m}', end=' ')
 print(f'A divisão é {d}')
+
+# Fim!
