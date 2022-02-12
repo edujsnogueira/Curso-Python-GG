@@ -50,6 +50,7 @@ print(len(frase))
 print(frase.count('o'))
 
 # Obs: O puthon difencia letras maiúscalas de minúsculas.
+print(frase.count('O'))
 
 # Podemos usar a contagem junto com o fatiamento:
 print(frase.count('o', 0, 13))

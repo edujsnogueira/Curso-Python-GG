@@ -9,7 +9,7 @@
 # Condição simples: (não tem "else")
 
 '''
-nome = str(input('Qual é o seu nome:'))
+nome = str(input('Qual é o seu nome:')).strip().capitalize()
 if nome == 'Gustavo':
     print('Que nome lindo você tem!')
 print(f'Bom dia, {nome}!')
@@ -19,8 +19,8 @@ print(f'Bom dia, {nome}!')
 # Condição composta: (com "else")
 
 '''
-nome = str(input('Qual é o seu nome:')).strip().upper()
-if nome == 'GUSTAVO':
+nome = str(input('Qual é o seu nome:')).strip().capitalize()
+if nome == 'Gustavo':
     print('Que nome lindo você tem!')
 else:
     print('Seu nome é tão normal!')
@@ -31,8 +31,8 @@ print(f'Bom dia, {nome}!')
 # Condições simplificadas: (com "if" e "else" na mesma linha)
 
 '''
-nome = str(input('Qual é o seu nome:')).strip().upper()
-print('Que nome lindo você tem!' if nome == 'GUSTAVO' else 'Seu nome é tão normal!')
+nome = str(input('Qual é o seu nome:')).strip().capitalize()
+print('Que nome lindo você tem!' if nome == 'Gustavo' else 'Seu nome é tão normal!')
 print(f'Bom dia, {nome}!')
 '''
 
