@@ -5,7 +5,7 @@ Os dicionários são variáveis compostas que permitem armazenar vários valores
 acessíveis por chaves literais.'''
 
 
-# Os dicioários são declarados em chaves e referenciados em colchetes.
+# Os dicionários são declarados em chaves e referenciados em colchetes.
 pessoas = {'nome': 'Gustavo', 'sexo': 'M', 'idade': 22}
 print(pessoas)
 # print(pessoa[0]) # Vai dar erro!
@@ -51,7 +51,7 @@ for k, v in pessoas.items():
 # Obs: Para excluir basta dar o comando "del" na chave.
 
 
-# Dicionários funcionam dentro de outras estruturas com as listas, por exemplo:
+# Dicionários funcionam dentro de outras estruturas como as listas, por exemplo:
 
 brasil = []
 estado1 = {'uf': 'Rio de Janeiro', 'sigla': 'RJ'}
